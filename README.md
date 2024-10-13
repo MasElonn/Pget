@@ -24,5 +24,3 @@ Python-based installer that configures system PATH
 
 
 ---
-
-This description provides a clear overview of the project, its functionality, and key features.
